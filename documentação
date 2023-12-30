@@ -1,0 +1,12 @@
+OBS.:
+    - Nesse projeto usei o React 17.0.2(pouquissima difereça para o 18.0.2 - o mais atual), pois o better-react-spinkit ainda não tem suporte para o react 18.0.2;
+
+O que usei nesse projeto:
+    - Usei Style global, com o styled-components;
+        É uma maneira de trabalhar com CSS usando JavaScript.
+    - Usei better-react-spinkit para adicionar indicadores de carremento.
+    - Usei o react-firebase-hooks para .
+
+Donloads:
+        
+npm i firebase react-icons styled-components better-react-spinkit react-firebase-hooks email-validator
